@@ -3,11 +3,10 @@
 
 entries:
   - title: 🏗
-    entries:
-- title: rss
-   url: feed.xml
+     - title: rss
+     url: feed.xml
       
-  - title: 🏚
+  - title: 📍
     post_list:
       limit: 5
    #   show_more: true
