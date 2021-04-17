@@ -1,11 +1,11 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
-  - title: 🏗
-  entries:
-     - title: rss
-     url: feed.xml
+#entries:
+ # - title: 🏗
+  #entries:
+   #  - title: rss
+    # url: feed.xml
       
   - title: 📍
     post_list:
