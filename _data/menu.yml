@@ -3,6 +3,7 @@
 
 entries:
   - title: 🏗
+  entries:
      - title: rss
      url: feed.xml
       
