@@ -2,12 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
- # - title: 🏗
+  - title: 🏗
   #entries:
    #  - title: rss
     # url: feed.xml
       
-  - title: 📍
+  - title: 📂
     post_list:
       limit: 5
    #   show_more: true
