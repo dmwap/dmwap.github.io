@@ -1,13 +1,15 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-entries:
- - title: b
-  entries:
+#entries:
+ # - title: 🚧
+  #entries:
    #  - title: rss
     # url: feed.xml
    
-  - title: 📂
+   entries:
++
+- title: 📂
     post_list:
       limit: 5
    #   show_more: true
