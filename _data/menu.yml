@@ -2,36 +2,43 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: 🕳
     entries:
-      - title: 고윤지 + jekyll + github
-    - title: rss
-     url: feed.xml
-   
-    - title: 📂
-     post_list:
+      - title: 🚧
+     # - title: github
+      #  url: https://github.com/dongpyeonness
+      #- title: <a href="mailto:yd1vf3@icloud.com">email</a>
+
+  - title: 📂
+    post_list:
       limit: 5
    #   show_more: true
-     # show_more_text: See archive...
-      #show_more_url: archive.html
+    #  show_more_text: See archive...
+     # show_more_url: archive.html
 
-#  - title: posts by category
+#  - title: posts by category 
  #   post_list:
-  #    category: example2
+  #    category: sangamdigitalmediacity
    #   show_more: true
-    #  show_more_text: See more posts...
-     # show_more_url: example2-archive.html
+    #  show_more_text: Show more post...
+     # show_more_url: sangamdigitalmediacity-archive.html
+      
+      
+#  - title: posts by category jeungsantabletenniscourt
+#    post_list:
+#      category: jeungsantabletenniscourt
+#      show_more: true
+#      show_more_text: Show more post...
+#      show_more_url: jeungsantabletenniscourt-archive.html
+
 
 #  - title: rss
  #   url: feed.xml
-  
-#  - title: another list
-  #  entries:
-   #   - title: with subitems
-    #    entries:
-     #     - title: with subsubitems
-      #    - title: example page
-       #     url: about
- # - title: PRO TIP
-  #  entries:
-   #   - title: to edit this menu, edit _data/menu.yml file
+    
+  #- title: another list
+   # entries:
+    #  - title: with subitems
+     #   entries:
+      #    - title: etc...
+       #     url: etc
+            
