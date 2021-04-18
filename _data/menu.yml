@@ -7,7 +7,6 @@ entries:
    #  - title: rss
     # url: feed.xml
    
--
 - title: 📂
     post_list:
       limit: 5
