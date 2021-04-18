@@ -2,10 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-    - title: 🕳
-          - title: statement
-            url: etc
-
+  - title: 🕳
+  url: etc
+  
 #    entries:
  #     - title: 🚧
      # - title: github
