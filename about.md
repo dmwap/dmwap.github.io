@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ...
 ---
 
 > 건축이 말랑말랑하게 경험되는 순간을 찾아보렵니다.<br/>
