@@ -3,6 +3,11 @@ layout: page
 title: About
 ---
 
-This is an example page!
+건축이 말랑말랑하게 경험되는 순간을 찾아보렵니다.
+단단한 벽과 투명한 창이 흐물흐물 무너져내리는 경험이요.
+무한한 가변성을 품은 공간 어떻게 설계하나요.
 
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+그래서 먼저 다녀왔습니다! 답사 혹은 오늘날의 건축적 산책이요!
+
+> 쓰레기 건축물에서 빠져 나오기.
+> 대지 위에서 동선을 탐색하기.
