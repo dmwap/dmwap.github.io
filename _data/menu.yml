@@ -4,8 +4,8 @@
 entries:
   - title: 🕳  
     entries:
-      - title: See statement...
-        url: about
+     # - title: See statement...
+      #  url: about
       #- title: <a href="mailto:yd1vf3@icloud.com">email</a>
 
   - title: 📂
